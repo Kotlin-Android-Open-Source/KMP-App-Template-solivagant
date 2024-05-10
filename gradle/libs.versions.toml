@@ -16,7 +16,7 @@ kmp-viewmodel = "0.7.1"
 flow-ext = "0.8.0"
 
 kotlinx-collections-immutable = "0.3.7"
-kotlinx-coroutines = "1.8.0"
+kotlinx-coroutines = "1.8.1"
 
 [libraries]
 compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "jetpack-compose-bom" }
