@@ -6,6 +6,7 @@ plugins {
     alias(libs.plugins.jetbrainsCompose)
     alias(libs.plugins.kotlinxSerialization)
     alias(libs.plugins.kotlinParcelize)
+    alias(libs.plugins.kotlinCompose)
 }
 
 kotlin {
