@@ -15,7 +15,7 @@ solivagant-navigation = "0.5.0"
 kmp-viewmodel = "0.8.0"
 flow-ext = "0.8.1"
 
-kotlinx-collections-immutable = "0.3.7"
+kotlinx-collections-immutable = "0.3.8"
 kotlinx-coroutines = "1.8.1"
 
 [libraries]
