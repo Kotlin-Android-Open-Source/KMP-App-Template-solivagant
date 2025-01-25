@@ -9,7 +9,7 @@ compose-plugin = "1.7.3"
 koin = "4.0.2"
 kotlin = "2.1.0"
 ktor = "3.0.3"
-kamel = "1.0.2"
+kamel = "1.0.3"
 
 solivagant-navigation = "0.5.0"
 kmp-viewmodel = "0.8.0"
